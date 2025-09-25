@@ -1,0 +1,5 @@
+{
+  "name": "스마트 배경 제거기",
+  "description": "AI 기반 도구로 이미지 배경을 손쉽게 제거하세요. 사진을 업로드하고 간단한 지시를 내리면 AI가 깨끗하고 투명한 배경의 PNG를 생성해 줍니다.",
+  "requestFramePermissions": []
+}
